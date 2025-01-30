@@ -104,7 +104,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Community Gallery</title>
-        <meta name="description" content="Web3 One Million Dollar Page" />
+        <meta name="description" content="Onchain Million Dollar Page" />
         <link href="/favicon.ico" rel="icon" />
       </Head>
 
@@ -113,7 +113,7 @@ const Home: NextPage = () => {
       </div>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Web3 One Million Dollar Page</h1>
+        <h1 className={styles.title}>Onchain Million Dollar Page</h1>
 
         {isConnected && (
           <div style={{ margin: '2rem 0', width: '100%', maxWidth: '500px' }}>
