@@ -8,7 +8,7 @@ import { sepolia } from 'wagmi/chains';
 import { Toaster } from 'react-hot-toast';
 
 const config = getDefaultConfig({
-  appName: 'Community Gallery',
+  appName: 'Onchain Million Dollar Page',
   projectId: 'YOUR_PROJECT_ID',
   chains: [sepolia],
 });
